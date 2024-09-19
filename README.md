@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kianbakhtari.
-- 📚 I'm an MSc (Ph.D. track) student in Data & Artificial Intelligence at Institute Polytechnique de Paris
-- 👀 I’m interested in Computational Biology and Biomedical Image Analysis using AI.
-- 🧬 I’m currently learning various aspects of AI, especially deep learning and its applications in healthcare.
+- 📚 I'm an MSc (Ph.D. track) student in Data Science & Artificial Intelligence at Institut Polytechnique de Paris
+- 👀 I’m interested in ML & DL, Computer Vision, Computational Biology, and Biomedical Image Analysis using AI.
 - 📫 How to reach me: You can message me on LinkedIn!
 
 <!---
